@@ -3,12 +3,12 @@
   "packages": [
     {
       "name": "videos",
-      "url": "https://ghproxy.com/https://github.com/jeremyH31/keluosituo/releases/download/assets/assets_video.zip",
+      "url": "https://github.com/jeremyH31/keluosituo/releases/download/assets/assets_video.zip",
       "sha256": ""
     },
     {
       "name": "image",
-      "url": "https://ghproxy.com/https://github.com/jeremyH31/keluosituo/releases/download/assets/assets_image.zip",
+      "url": "https://github.com/jeremyH31/keluosituo/releases/download/assets/assets_image.zip",
       "sha256": ""
     }
   ]
